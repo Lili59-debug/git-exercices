@@ -1,2 +1,3 @@
 // Instructions go here
-Branch-a instructions
+branch-a instructions
+branch-b instructions
